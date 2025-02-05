@@ -1,7 +1,7 @@
 # Sentiment-Analysis-on-Tesla-Customer-Reviews
 
 Objective: Scraped Tesla customer reviews for 2024 from Trustpilot.com and perform sentiment analysis to uncover 
-key themes and customer opinions.
+key topics and customer opinions.
 
 Data Preparation: Preprocessed the text data by removing stopwords, punctuation, and lemmatizing the reviews to 
 create a clean and structured dataset.
